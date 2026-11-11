@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RMIConversion_Client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RMIConversion_Client_jar</output-path>
+    <root id="archive" name="RMIConversion_Client.jar">
+      <element id="module-output" name="RMIConversion_Client" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/DAR_TP5_Activite5-1_Conversion/conversionClient.jar" />
+    </root>
+  </artifact>
+</component>
